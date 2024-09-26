@@ -31,4 +31,14 @@ Rework Example 4-7
 ![Example 4-7 rework 4](readme-photos/pra2-example4-reworked4.png)
 
 
-## Docker  
+## Docker 
+
+Docker Installation Version 
+
+![Docker Version](readme-photos/docker-version.png)
+
+Running hello.py using docker 
+
+![Before Running](readme-photos/docker-running-code.png)
+
+![After Running](readme-photos/docker-running-code-after.png)
